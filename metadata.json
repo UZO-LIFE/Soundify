@@ -1,0 +1,6 @@
+{
+  "name": "Soundify Audio Engine",
+  "description": "Robust, provider-independent audio playback engine and interactive verification harness for Soundify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
